@@ -1,4 +1,9 @@
 - 这里什么都没留下……
 - Areas
+	- [[Database]]
+	- [[Java]]
+	- [[Golang]]
+	- [[Linux]]
+	-
 - Readings
--
+- InterviewNotes
